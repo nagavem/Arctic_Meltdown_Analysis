@@ -1,0 +1,10 @@
+GET        /                       controllers.HomeController.index
+
+GET        /CO2Emissions                   controllers.HomeController.CO2Emissions
+GET        /Methane                   controllers.HomeController.Methane
+GET        /NOEmissions                  controllers.HomeController.NOEmissions
+GET        /PolarIce                  controllers.HomeController.PolarIce
+GET        /Temperature                  controllers.HomeController.Temperature
+
+
+
