@@ -4,3 +4,5 @@ Repository for the analysis carried out on the Arctic Ice melt in correlation to
 MVC Architecture used.
 Time series forecasting carried out by using the ARIMA model.
 Results obtained in JSON and can be visualised using the vegas suite @ https://vega.github.io/editor/#/
+
+Refer FinalProject.pdf for more information
